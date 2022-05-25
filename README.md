@@ -45,7 +45,7 @@ Hobbyies: Long-distance runner, snowboarder, camper. -->
 
 ## **My links**:<br/>
 
-[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/grevgeny/)
+[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grevgeny/)
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=eu.grigorenko@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mailto:eu.grigorenko@gmail.com)
 
 <!--
